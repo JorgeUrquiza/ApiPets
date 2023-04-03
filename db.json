@@ -66,6 +66,38 @@
             "Precio": "$1200",
             "img": "https://naturallife.vtexassets.com/arquivos/ids/160455-300-300?v=1766892363&width=300&height=300&aspect=true",
             "descripcion": "Toda la línea Balanced está especialmente formulada para lograr el equilibrio orgánico y estructural del gato adulto. Su fórmula posee minerales en bajos niveles, lo cual protege a las vías bajas del sistema urinario regulando al mismo tiempo el PH. Evita la formación de cálculos y cristales urinarios. Posee Taurina y L- carnitina, lo cual favorece al músculo del corazón, ayudando a evitar cardiopatías. Así mismo, posee celulosa, lo cual ayuda a prevenir las bolas de pelo en el tracto gastrointestinal por efectos del lamido."
+        },
+        {
+            "id":9,
+            "Marca": "Tetra Pond Koi Vibrance",
+            "Tipo" : "Alimento Peces 3750 Gr / 25 Lts",
+            "Precio": "$5000",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/162780-300-300?v=1764159075&width=300&height=300&aspect=true",
+            "descripcion": "El mejor alimento para peces koy que esta disponible en el mercado"
+        },
+        {
+            "id":10,
+            "Marca": "BOYU",
+            "Tipo" : "ALIMENTADOR AUTOMATICO PARA PECES DIGITAL",
+            "Precio": "$19200",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/167515-300-300?v=1762265369&width=300&height=300&aspect=true",
+            "descripcion": "Oh no... ¿Te olvidaste de alimentar a tus queridos peces?, no te hagas odiar por tus mascotas, asi es... los peces tienen sentimientos. Con este maravilloso articulo, nunca mas tus peces pasaran hambre."
+        },
+        {
+            "id":11,
+            "Marca": "Tetra Pond",
+            "Tipo" : "Alimento Para Peces Floating Food 100 Gr / 1 Lts.",
+            "Precio": "$4000",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/162772-300-300?v=1766719556&width=300&height=300&aspect=true",
+            "descripcion": "Uno de los mejores alimentos flotantes para peces, contiene vitamina A y C para peces mas brillosos..."
+        },
+        {
+            "id":8,
+            "Marca": "Decoration Urq",
+            "Tipo" : "Pez Scorpion De Silicona Fluor C/Mov 12 Cm",
+            "Precio": "$1800",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/163817-300-300?v=1766892359&width=300&height=300&aspect=true",
+            "descripcion": "¿Por que tu pez esta tan solo?...Debe ser muy aburrido no tener ningun amigo, con este hermozo pez de silicona tus peces siempre tendran un amigo cerca..."
         }
     ]
 }
