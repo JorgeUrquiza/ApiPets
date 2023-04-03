@@ -1,0 +1,38 @@
+{
+    "perros": [
+        {
+            "id":1,
+            "Marca": "Royal Canin",
+            "Tipo": "Mini Adulto X 7.5 Kg",
+            "Precio": "$1500",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/155397-300-300?v=1766892337&width=300&height=300&aspect=true",
+            "descripcion": "Royal Canin Mini Adult es un alimento balanceado recomendado para perros adultos de talla menor (de 1 a 10 kg) a partir de los 10 meses de edad y hasta los 8 . Ayuda con el mantenimiento del peso ideal, a un pelaje sano y al control del sarro dental.Posee una palatabilidad reforzada."
+        },
+        {
+            "id":2,
+            "Marca": "ProPlan",
+            "Tipo": " Active Perro Mind 7+ Mediano Y Grande X 15 Kg",
+            "Precio": "$1800",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/167251-300-300?v=1766892347&width=300&height=300&aspect=true",
+            "descripcion": "Pro Plan Active Mind con Optiage fue especialmente elavorado por nutricionistas y veterinarios para mejorar su expectativa y calidad de vida. Contiene aceites botanicos que proveen la energia que el cerebro necesita para su optimo funcionamiento. "
+        },
+        {
+            "id":3,
+            "Marca": "Old Prince",
+            "Tipo" : "Novel Cya Adultos Med&Large X 15+3 Kg",
+            "Precio": "$1500",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/163947-300-300?v=1766892360&width=300&height=300&aspect=true",
+            "descripcion": "Old Prince Novel es un alimento balanceado y completo para perros adultos de razas medianas y grandes. Completamente natural con: 0% de soja, 0% de tacc y 32% de proteinas compuestas de cordero y arroz integral, minimizando las probabilidades de alergias alimentarias y cutaneas."
+
+        },
+        {
+            "id":4,
+            "Marca": "Vitalcan",
+            "Tipo" : "Balanced Perro Adulto Mediano X 20 + 2 Kg",
+            "Precio": "$1200",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/163550-300-300?v=1766892362&width=300&height=300&aspect=true",
+            "descripcion": "Vitalcan Balanced perro adulto Raza Mediana es un alimento Indicado para el mantenimiento de perros en estado normal de salud y con un peso ideal entre 10 y 24 kg. Esta formulado para lograr un optimo equilibrio organico y estructural en la adultez. "
+        }
+
+    ]
+}
