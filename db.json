@@ -1,5 +1,5 @@
 {
-    "perros": [
+    "Productos": [
         {
             "id":1,
             "Marca": "Royal Canin",
@@ -32,7 +32,40 @@
             "Precio": "$1200",
             "img": "https://naturallife.vtexassets.com/arquivos/ids/163550-300-300?v=1766892362&width=300&height=300&aspect=true",
             "descripcion": "Vitalcan Balanced perro adulto Raza Mediana es un alimento Indicado para el mantenimiento de perros en estado normal de salud y con un peso ideal entre 10 y 24 kg. Esta formulado para lograr un optimo equilibrio organico y estructural en la adultez. "
+        },
+        {
+            "id":5,
+            "Marca": "Royal Canin",
+            "Tipo" : "Gato Fit 32 X 7.5 Kg",
+            "Precio": "$1350",
+            "img": "https://catycanar.vtexassets.com/arquivos/ids/157773-300-300?v=637732976542330000&width=300&height=300&aspect=true",
+            "descripcion": "Alimento para gatos adultos con peso ideal, actividad física moderada y que poseen acceso al exterior, de 1 a 7 años de edad. Royal Canin Fit es un alimento completo y balanceado que contiene un nivel adecuado de nutrientes beneficiosos para mantener la buena salud de los gatos adultos. Esto se debe a que, para satisfacer las necesidades nutricionales específicas en la fase adulta, los gatos necesitan una nutrición de alta calidad. "
+            
+        },
+        {
+            "id":6,
+            "Marca": "Old Prince",
+            "Tipo" : "Gato Equilibrium Urinary Care X 7.5 Kg",
+            "Precio": "$1250",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/167658-300-300?v=1766892350&width=300&height=300&aspect=true",
+            "descripcion": "Old Prince Equilibrium Urinary Care es un alimento para gatos adultos con tendencia a contraer afecciones en su sistema urinario. Promueve el consumo de agua y regula el pH de la orina, reduciendo el riesgo de formación de cálculos de estruvita y oxalato. Adicionalmente, protege el funcionamiento cardíaco mediante la inclusión de taurina en su fórmula y previene la formación de bolas de pelo."
+        },
+        {
+            
+            "id":7,
+            "Marca": "Pro Plan",
+            "Tipo" : "Gato Adulto Urinary Care X 15 Kg",
+            "Precio": "$1500",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/155498-300-300?v=1766805946&width=300&height=300&aspect=true",
+            "descripcion": "Purina Pro Plan Urinary con DUAL STONE es un alimento balanceado para gatos adultos con riesgo de padecer trastornos del tracto urinario. Ayuda a mantener una buena salud del tracto urinario porque contiene una mezcla de nutrientes que colabora a disolver y evita la formación de ciertos cálculos; estimula el consumo de agua lo que reduce la formación de cálculos de oxalato; y, además, acidifica el PH de la orina, lo que también reduce la formación de cálculos."
+        },
+        {
+            "id":8,
+            "Marca": "Vitalcan",
+            "Tipo" : "Balanced Gato Adulto 15 Kg",
+            "Precio": "$1200",
+            "img": "https://naturallife.vtexassets.com/arquivos/ids/160455-300-300?v=1766892363&width=300&height=300&aspect=true",
+            "descripcion": "Toda la línea Balanced está especialmente formulada para lograr el equilibrio orgánico y estructural del gato adulto. Su fórmula posee minerales en bajos niveles, lo cual protege a las vías bajas del sistema urinario regulando al mismo tiempo el PH. Evita la formación de cálculos y cristales urinarios. Posee Taurina y L- carnitina, lo cual favorece al músculo del corazón, ayudando a evitar cardiopatías. Así mismo, posee celulosa, lo cual ayuda a prevenir las bolas de pelo en el tracto gastrointestinal por efectos del lamido."
         }
-
     ]
 }
